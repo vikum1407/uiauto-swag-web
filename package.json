@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^14.0.3"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-terminal-report": "^7.1.0"
+  }
+}
